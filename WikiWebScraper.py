@@ -3,7 +3,7 @@
 
 # # Wiki Web Scraper
 # ---
-# A simple and efficient wiki web scraper. The sole purpose of this project was to get a hands-on and to learn about web scraping and its usage. 
+# A simple and efficient wiki web scraper. The sole purpose of this project is to get a hands-on and to learn about web scraping and its usage. 
 
 # ### Step 1. Importing requisite libraries
 
