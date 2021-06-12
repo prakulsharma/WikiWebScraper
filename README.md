@@ -1,2 +1,2 @@
 # WikiWebScraper
-A simple and effiicient wiki web scraper built for the purpose of practice.
+A simple and efficient wiki web scraper built for the purpose of learning.
